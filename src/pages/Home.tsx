@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Code2, Terminal, Zap, GitBranch, Sparkles } from "lucide-react";
+import {Terminal, Zap, GitBranch} from "lucide-react";
 
 export default function Home() {
   return (
